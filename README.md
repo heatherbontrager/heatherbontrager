@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heatherbontrager
-- 👀 I’m interested in learing how to code and eventually leaving the world of dentistry to join the coding world
-- 🌱 I’m currently learning functions and loops! beginner here!
+- 👀 I am part of the #100devs community
+- 🌱 HTML, CSS, JS, and waaay more to come!
 - 💞️ I’m looking to collaborate on anything and everything, the more learning the better!
 - 📫 How to reach me EMAIL ME!! bontragerhr@gmail.com
 
