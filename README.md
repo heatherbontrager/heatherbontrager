@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heatherbontrager
 - 👀 I am part of the #100devs community
 - 🌱 HTML, CSS, JS, and waaay more to come!
-- 💞️ I’m looking to collaborate on anything and everything, the more learning the better!
+- 💞️ I’m looking to collaborate on anything and everything, LETS WATER THAT GRASS GREEN!
 - 📫 How to reach me EMAIL ME!! bontragerhr@gmail.com
 
 <!---
